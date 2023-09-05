@@ -160,13 +160,13 @@ textarea.form-control{ height: auto; padding: 10px;}
 
 /* pic-tag */
 .pic-tag{ display: block; position: absolute; padding: 2px 0; width: 100%; z-index: 99;}
-.pic-tag-top{top: 5px; left: 5px;}
+.pic-tag-top{top: 2px; left: 2px;}
 .pic-tag-left{bottom: 5px; left: 5px;}
 .pic-tag-bottom{bottom: 5px; right: 5px; text-align: right;}
 .pic-tag-right{top: 5px; right: 5px; text-align: right;}
 .pic-tag-h{left: 0; top: 0; padding:2px 8px; border-radius: 0 0 8px 0;}
 .pic-tag-lg{ padding: 4px 10px;}
-.pic-tag .tag{ display: inline-block; margin: 0 4px; padding: 0 5px; font-size: 12px; border-radius: 2px;}
+.pic-tag .tag{ display: inline-block; margin: 0 2px; padding: 0 5px; font-size: 10px; border-radius: 2px;}
 .pic-text{display: block; width: 100%; position: absolute; z-index: 98; bottom: 0; left: 0; padding:5px 10px; font-size: 12px; overflow:hidden; text-overflow:ellipsis; -o-text-overflow:ellipsis; white-space:nowrap;}
 .pic-text-silde{ padding-bottom: 20px; font-size: 14px;}
 .pic-text-lg{ padding: 8px 20px; font-size: 14px;}
